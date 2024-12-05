@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WiBkzuxADEaz3pX7zWUB82qM1tvnRx8zFdWH/AMWR3kqKzmL4Zv/ryDZxm4k78rlC2o2Rm/ZJXdl+yWksITzPQ==",
+  "dgSpecHash": "NRtLI3ZoC0tM6Smj8NBo8zOTYICW5BbSTUf/5x4NeMaNBtJJPjEw3v1GkKtMjKrN5gtuk0jPltOPfEv6+2fWMw==",
   "success": true,
   "projectFilePath": "/Users/anh.vu/Projects/project-03/BackEnd/BackEnd.csproj",
   "expectedPackageFiles": [
+    "/Users/anh.vu/.nuget/packages/microsoft.entityframeworkcore.tools/9.0.0/microsoft.entityframeworkcore.tools.9.0.0.nupkg.sha512",
     "/Users/anh.vu/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/anh.vu/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/anh.vu/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
