@@ -466,19 +466,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/anh.vu/.nuget/packages/": {}
+    "/home/devolic/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anh.vu/Projects/project-03/BackEnd/BackEnd.csproj",
+      "projectUniqueName": "/home/devolic/Projects/rust-to-certificate/excell-on-services/BackEnd/BackEnd.csproj",
       "projectName": "BackEnd",
-      "projectPath": "/Users/anh.vu/Projects/project-03/BackEnd/BackEnd.csproj",
-      "packagesPath": "/Users/anh.vu/.nuget/packages/",
-      "outputPath": "/Users/anh.vu/Projects/project-03/BackEnd/obj/",
+      "projectPath": "/home/devolic/Projects/rust-to-certificate/excell-on-services/BackEnd/BackEnd.csproj",
+      "packagesPath": "/home/devolic/.nuget/packages/",
+      "outputPath": "/home/devolic/Projects/rust-to-certificate/excell-on-services/BackEnd/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/anh.vu/.nuget/NuGet/NuGet.Config"
+        "/home/devolic/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -524,6 +524,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -532,7 +546,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/RuntimeIdentifierGraph.json"
       }
     }
   }
